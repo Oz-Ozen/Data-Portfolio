@@ -16,7 +16,7 @@ The [original dataset](https://www.kaggle.com/datasets/ravishah1/carvana-predict
 - Created new columns to extract information such as brand and model.
 - Exported the cleaned dataset and uploaded it to Tableau Public for visualization.
 
-Due to the type and volume of the data, all cleaning was done using **Google Sheets**. See the cleaned file at [cleaned data](Projects/Carvana_price_Analysis/Carvana_Data_Clean.csv).
+Due to the type and volume of the data, all cleaning was done using **Google Sheets**. See the cleaned file at [cleaned data](Data-Portfolio/Projects/Carvana_price_Analysis/Carvana_Data_Clean.csv).
 
 ---
 
@@ -58,4 +58,4 @@ Brands like **BMW** and **Mercedes-Benz** show a wide price distribution, likely
 - **Tableau Public**: Dashboard creation and visualization.
 - **Git**: Version control and project hosting.
 
-![Dashboard preview](Projects/Carvana_price_Analysis/Dashboard_1.png
+![Dashboard preview](https://github.com/Oz-Ozen/Data-Portfolio/blob/main/Projects/Carvana_price_Analysis/Dashboard_1.png)
