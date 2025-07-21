@@ -16,7 +16,7 @@ The [original dataset](https://www.kaggle.com/datasets/ravishah1/carvana-predict
 - Created new columns to extract information such as brand and model.
 - Exported the cleaned dataset and uploaded it to Tableau Public for visualization.
 
-Due to the type and volume of the data, all cleaning was done using **Google Sheets**. See the cleaned file at [cleaned data](Data-Portfolio/Projects/Carvana_price_Analysis/Carvana_Data_Clean.csv).
+Due to the type and volume of the data, all cleaning was done using **Google Sheets**. See the cleaned file at [cleaned data](https://github.com/Oz-Ozen/Data-Portfolio/blob/main/Projects/Carvana_price_Analysis/Carvana_Data_Clean.csv).
 
 ---
 
