@@ -22,7 +22,7 @@ Due to the type and volume of the data, all cleaning was done using **Google She
 
 ## 📊 Dashboard Highlights
 
-A preview of the dashboard is shown below.
+A preview of the dashboard is shown below. Also, the original dashboard in [Tableau](https://public.tableau.com/app/profile/omar.anaya5298/viz/CarvanaAnalysis/Dashboard1) can be found in the previous link. 
 
 - About **22,000 vehicles** were analyzed.
 - The **average price** of the listed cars is approximately **$27,000 USD**.
