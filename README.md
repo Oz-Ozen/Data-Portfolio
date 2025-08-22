@@ -37,5 +37,5 @@ I'm constantly learning new tools and techniques to improve my workflow and unde
 ## Contact
 
 - 📧 Email: omaranayap@hotmail.com  
-- 📄 LinkedIn: [Omar_Anaya](www.linkedin.com/in/omar-anaya-326789209)
+
 
